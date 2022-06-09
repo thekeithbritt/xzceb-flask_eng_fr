@@ -1,4 +1,4 @@
-'''This module translates from English to French 
+'''This module translates from English to French
 and French to English using IBM Language Translator'''
 
 import os

@@ -14,3 +14,4 @@ class TestF2E(unittest.TestCase):
         self.assertEqual(french_to_english('Bonjour'), 'Hello') # test that 'Bonjour' in French is translated to English 'Hello'
 
 unittest.main()
+
